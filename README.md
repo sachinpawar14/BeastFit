@@ -15,7 +15,7 @@ A full-stack web application built using React (frontend) and Node.js + Express 
 ✅ Backend API with Express
 
 🛠️ Tech Stack
-Layer	Technology Used
-Frontend	React, HTML5, CSS3, Axios
-Backend	Node.js, Express.js
-Email Service	Nodemailer
+Layer	Technology Used.
+Frontend -	React, HTML5, CSS3, Axios.
+Backend -	Node.js, Express.js.
+Email Service -	Nodemailer.
