@@ -1,12 +1,21 @@
-# React + Vite
+📌 Gym Inquiry Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack web application built using React (frontend) and Node.js + Express (backend), designed to make it easy for users to inquire about gym memberships and plans. When a user submits the inquiry form, the server automatically sends the details to the gym admin’s email.
 
-Currently, two official plugins are available:
+🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ Inquiry form for collecting user details
 
-## Expanding the ESLint configuration
+✅ Automatic email sending using Nodemailer
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✅ Fully responsive UI built with React
+
+✅ Success notification on submission
+
+✅ Backend API with Express
+
+🛠️ Tech Stack
+Layer	Technology Used
+Frontend	React, HTML5, CSS3, Axios
+Backend	Node.js, Express.js
+Email Service	Nodemailer
